@@ -1,0 +1,18 @@
+{
+    "port": 4016,
+    "jwtOption": {
+        "jwtSecretKey": "ededwedwwpolfePtbEadRzVlewewf2323ferferf2323",
+        "jwtRefreshSecretKey": "ghewfughiu4iugu34g3gh3gh4gnjh4j3b4hjb",
+        "issuer": "apptunix",
+        "subject": "apptunix",
+        "audience": "apptunix",
+        "algorithm": "SHA256",
+        "expiresIn": "3d"
+    },
+    "mongo": {
+        "url" : "mongodb://localhost:27017/apptunixTask"
+    },
+    "ACCESSKEYID": "AKIAJK4PKLFI63QZYLCQ",
+    "SECRETACCESSKEY":"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",
+    "AWS_BUCKET_NAME":"richao"
+}
